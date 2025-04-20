@@ -24,5 +24,3 @@ Personal collection of Cheat Engine tables for single-player games.
 ---
 
 ## 📥 [Download Tables from Releases](../../releases)
-
-All cheat tables can be downloaded from the repository's **[Releases](../../releases)** page.
